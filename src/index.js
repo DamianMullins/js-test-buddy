@@ -6,7 +6,7 @@ import {
 
 
 /**
- * Sets the HTML content of the body.
+ * Triggers a click event.
  *
  * @param {Node} element
  */
