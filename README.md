@@ -1,4 +1,4 @@
-# Test Buddy :construction_worker:
+# JS Test Buddy :construction_worker:
 
 [![npm version](https://badge.fury.io/js/js-test-buddy.svg)](https://badge.fury.io/js/js-test-buddy)
 [![Build Status](https://travis-ci.org/DamianMullins/js-test-buddy.svg)](https://travis-ci.org/DamianMullins/js-test-buddy)
