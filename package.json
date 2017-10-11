@@ -1,6 +1,6 @@
 {
   "name": "js-test-buddy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "JS unit test helper functions.",
   "main": "dist/index.js",
   "files": [
@@ -10,14 +10,14 @@
   "author": "Damian Mullins <damian.mullins@just-eat.com>",
   "license": "MIT",
   "dependencies": {
-    "dom-buddy": "^1.0.2"
+    "dom-buddy": "^2.0.0"
   },
   "devDependencies": {
     "@justeat/eslint-config-fozzie": "^1.2.0",
     "babel-cli": "^6.26.0",
     "babel-preset-babili": "^0.1.4",
     "babel-preset-es2015": "^6.24.1",
-    "eslint": "^4.7.0",
+    "eslint": "^4.8.0",
     "eslint-plugin-import": "^2.7.0"
   },
   "scripts": {
