@@ -1,20 +1,11 @@
-import {
+export {
     dispatchEvent,
+    getHtml,
+    getBodyHtml,
     setHtml,
-    getHtml
+    setBodyHtml
 } from 'dom-buddy';
 
-
-/**
- * Triggers a click event.
- *
- * @param {Node} element
- */
-const click = element => dispatchEvent(element, 'click');
-
-
-export default {
-    click,
-    setHtml,
-    getHtml
-};
+export {
+    click
+} from './simulate';

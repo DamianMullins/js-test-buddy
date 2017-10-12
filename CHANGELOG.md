@@ -4,6 +4,24 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.0.6
+------------------------------
+*October 12, 2017*
+
+### Added
+- Create new `simulate` module.
+- Added unit tests for `simulate` module.
+- Added unit test npm scripts.
+- JS unit test coverage reported to coveralls.
+- Added coveralls badge to readme.
+
+### Changed
+- Module now exports `getBodyHtml` and `setBodyHtml` functions.
+- Moved `click` function into `simulate` module.
+- Updated `prepare` npm script.
+- Updated Travis config.
+
+
 v0.0.5
 ------------------------------
 *October 11, 2017*
