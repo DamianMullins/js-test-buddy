@@ -1,4 +1,4 @@
-export {
+import {
     dispatchEvent,
     getHtml,
     getBodyHtml,
@@ -6,6 +6,15 @@ export {
     setBodyHtml
 } from 'dom-buddy';
 
-export {
+import {
     click
 } from './simulate';
+
+export default {
+    dispatchEvent,
+    getHtml,
+    getBodyHtml,
+    setHtml,
+    setBodyHtml,
+    click
+}
