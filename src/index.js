@@ -6,9 +6,7 @@ import {
     setBodyHtml
 } from 'dom-buddy';
 
-import {
-    click
-} from './simulate';
+import { click } from './simulate';
 
 export default {
     dispatchEvent,
