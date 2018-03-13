@@ -7,7 +7,6 @@
 
 import { dispatchEvent } from 'dom-buddy';
 
-
 /**
  * Triggers a click event.
  *
