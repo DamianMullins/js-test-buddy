@@ -1538,9 +1538,10 @@ doctrine@^2.1.0:
   dependencies:
     esutils "^2.0.2"
 
-dom-buddy@2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/dom-buddy/-/dom-buddy-2.3.0.tgz#e287ba86f4b905283f6095bdd66bdbce70346bc0"
+dom-buddy@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/dom-buddy/-/dom-buddy-2.4.0.tgz#ab3a1406e811b0c86bdc5e5d5824777240e25268"
+  integrity sha512-GxBHVA9B45P7B9KF7hWCtoZyAj7JEb9cCILPmiHOeR9OpDz3CuNsm1zDk3unNvcMemZDVw1niSDJBCdLk3mkxg==
 
 domexception@^1.0.0:
   version "1.0.1"

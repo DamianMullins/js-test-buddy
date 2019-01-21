@@ -1,6 +1,6 @@
 {
   "name": "js-test-buddy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JS unit test helper functions.",
   "main": "dist/index.js",
   "files": [
@@ -10,7 +10,7 @@
   "author": "Damian Mullins <damian@lowflyingowls.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "dom-buddy": "2.3.0"
+    "dom-buddy": "2.4.0"
   },
   "devDependencies": {
     "@justeat/eslint-config-fozzie": "1.4.0",
